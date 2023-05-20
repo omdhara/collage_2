@@ -1,0 +1,62 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.collagebox
+{
+    display:inline;
+    padding:10px;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.imgbox{
+    height: 250px;
+    width:360px;
+
+}
+
+img{
+    width:37%;
+    border-radius: 4px;
+    padding:10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+
+}
+
+img:hover{
+    border-radius: 140px;
+
+
+}
+
+.copy_footer{
+    position:fixed;
+    color: black;
+    bottom:0px;
+    width:100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+}
